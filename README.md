@@ -19,33 +19,29 @@ KarmaKat is a desktop application built with Python and Tkinter for managing cat
 
 ## Screenshots
 
-### Login Page
-![Login](screenshots/login_screen.png)
+### Login Screen
+![login_screen](https://github.com/user-attachments/assets/f7ac04c8-7fd3-4748-8a0c-2d1a9d55cf1c)
 
-### Main Navigation
-![Main Menu](screenshots/main_menu.png)
-
-### Cat Lookup
-![Cat Lookup](screenshots/cat_lookup.png)
-
-### Search Result Popup
-![Search Result](screenshots/cat_search_result.png)
+### Main Menu
+![main_menu](https://github.com/user-attachments/assets/5af86a3b-7136-4266-83a3-04af27e1aaca)
 
 ### Add Cat
-![Add Cat](screenshots/add_cat.png)
+![add_cat](https://github.com/user-attachments/assets/eeb5655b-307f-42ac-83a1-fc6ddbdde59e)
 
-### Modify Cat Record
-![Modify Cat](screenshots/modify_cat.png)
+### Modify Cat Information
+![modify_cat](https://github.com/user-attachments/assets/2032e8b6-086e-4466-9aa8-8f9b594ce6f4)
 
-### Add Employee
-![Add Employee](screenshots/add_employee.png)
+### Cat Lookup
+![cat_lookup](https://github.com/user-attachments/assets/e959ec34-d28c-4970-a1f1-2b0a9ef00a03)
 
-### Modify Employee Info / Reset Password
-![Modify Employee](screenshots/modify_employee.png)
+### Cat Search Result
+![cat_search_result](https://github.com/user-attachments/assets/23247080-8181-4c1f-8ba0-efe2ab089fcd)
 
-### Remove Employee Credentials
-![Remove Employee](screenshots/remove_employee.png)
+### Add Employee Information
+![add_employee](https://github.com/user-attachments/assets/074b4b72-f2b4-4d76-ab4d-95d4ec726370)
 
+### Modify Employee Information
+![modify_employee](https://github.com/user-attachments/assets/264c71ce-f500-4b0c-ae56-12ce5d875e18)
 
 ## How to Run
 1. Make sure Python is installed (3.x)
